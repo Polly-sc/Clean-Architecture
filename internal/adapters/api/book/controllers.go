@@ -2,7 +2,7 @@ package adapters
 
 import (
 	"Clean-Architecture/internal/adapters"
-	"Clean-Architecture/internal/book"
+	"Clean-Architecture/internal/domain/book"
 	"net/http"
 
 	"github.com/julienschmidt/httprouter"
